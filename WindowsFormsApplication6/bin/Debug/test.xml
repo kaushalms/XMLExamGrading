@@ -1,0 +1,43 @@
+<test>
+	<multipleChoice>
+		<QuestionNumber>1</QuestionNumber>
+		<Question>What is not a part of XML document structure? (2.5 marks)</Question>
+		<Option1>XML Declaration</Option1>
+		<Option2>Elements</Option2>
+		<Option3>Dimension</Option3>
+		<Option4>Namespaces</Option4>		
+	</multipleChoice>
+
+	<multipleChoice>
+		<QuestionNumber>2</QuestionNumber>
+		<Question>Which is an advantage of XML? (2.5 marks)</Question>
+		<Option1>Combines structure and data</Option1>
+		<Option2>Poor performance</Option2>
+		<Option3>Easy to use</Option3>
+		<Option4>Snazzy</Option4>		
+	</multipleChoice>
+
+	<multipleChoice>
+		<QuestionNumber>3</QuestionNumber>
+		<Question>What is  limitation of XML? (2.5 marks)</Question>
+		<Option1>Poor performance</Option1>
+		<Option2>Difficult to validate</Option2>
+		<Option3>Small file size</Option3>
+		<Option4>Looks cumbersome</Option4>		
+	</multipleChoice>
+
+	<multipleChoice>
+		<QuestionNumber>1</QuestionNumber>
+		<Question>Which is not a method for selecting nodes using xPath? (2.5 marks)</Question>
+		<Option1>Select singlenode</Option1>
+		<Option2>SelectNodes</Option2>
+		<Option3>Select Roots</Option3>
+		<Option4>Select parentnode</Option4>		
+	</multipleChoice>
+
+	<essay>
+		<Question>What is xPath (5 Marks)</Question>
+	</essay>
+
+
+</test>
